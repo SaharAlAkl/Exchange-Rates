@@ -45,7 +45,7 @@ mvn clean verify
 Project Structure:
 ------------------
 `
-├── src  
+├── src    
 │   ├── test  
 │       └── java  
 │           └── SDETAssessment.java  
