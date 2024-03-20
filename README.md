@@ -44,6 +44,7 @@ mvn clean verify
 
 Project Structure:
 ------------------
+`
 ├── src
 │   ├── test
 │       └── java
@@ -52,3 +53,4 @@ Project Structure:
 │           └── schema.json
 ├── pom.xml                                
 └── README.md
+`
