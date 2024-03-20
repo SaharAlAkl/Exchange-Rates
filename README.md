@@ -45,12 +45,12 @@ mvn clean verify
 Project Structure:
 ------------------
 `
-├── src    
-│   ├── test  
-│       └── java  
-│           └── SDETAssessment.java  
-│       └── schema  
-│           └── schema.json  
-├── pom.xml                                  
-└── README.md
+- src
+  - test
+    - java
+      - SDETAssessment.java
+  - schema
+    - schema.json
+- pom.xml
+- README.md
 `
